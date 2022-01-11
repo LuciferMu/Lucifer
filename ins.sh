@@ -26,4 +26,4 @@ sudo apt-get update
 sudo apt-get upgrade -y
 cd ..
 rm -rf luarocks*
-lua TeKToK.lua
+lua Lucifer.lua
