@@ -6350,18 +6350,14 @@ return false
 end
 elseif text == 'السورس' or text == 'سورس' or text == 'ياسورس'  then
 send(msg.chat_id_, msg.id_,[[
-⦑ Welcome to Source ⦒
+🛠 : Lucifer Source .
+--- --- --- --- --- --- --- --- ---
+📗 : [Channel Source](t.me/Team_Luc) .
 
-𓂅 .Lucifer TEAM 
-┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
-𓂅 . [Source Channel](t.me/JJJUU)
+📓 : [Update Source](t.me/upLucifer) .
 
-𓂅 . [Source Info ](t.me/Lucifer0)     
-
-𓂅 . [Lucifer iNDT](t.me/Lucifer0)     
- 
- ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
-𓂅 . [TWS Lucifer](t.me/ubuuuBoT)     
+📕 : [Connect Bot](t.me/fuvbot) .
+--- --- --- --- --- --- --- --- ---
 ]]) 
 elseif text == 'الاوامر' and Admin(msg) then
 send(msg.chat_id_, msg.id_,[[*
